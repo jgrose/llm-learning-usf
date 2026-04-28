@@ -1,6 +1,16 @@
 # llm-learning-usf
 Slides &amp; Links for 4/28/26 Presentation at USF
 
+# FREE Quality AI Training Courses worth Taking:
+
+Start with 'Claude 101': https://anthropic.skilljar.com/claude-101
+
+After that, if you're interested in coding, this one:
+Claude Code in Action: https://anthropic.skilljar.com/claude-code-in-action
+
+Link to all Anthropic free courses @Anthropic Academy: 
+https://www.anthropic.com/learn
+
 # Beginner/Intermediate
 
 Claude Code Best Practices
